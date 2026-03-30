@@ -7,7 +7,7 @@ Building real products with AI-assisted workflows — fast, functional, and prod
 
 ## 🚀 What I Do
 
-- **Vibe Coding** — I use Cursor & GitHub Copilot daily to ship features in hours, not days
+- **Vibe Coding** — I use GitHub Copilot & Claude AI daily to ship features in hours, not days
 - **Web Scraping** — Python, BeautifulSoup4, Playwright for JS-heavy sites
 - **Full-Stack Dev** — Next.js, React, Tailwind CSS, Supabase, Vercel
 - **AI Training** — Designing and verifying problems for AI model training (Data Science & Coding domains)
@@ -23,7 +23,8 @@ Building real products with AI-assisted workflows — fast, functional, and prod
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
